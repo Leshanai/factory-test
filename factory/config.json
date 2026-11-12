@@ -15,7 +15,7 @@
   },
   "surface_reviewers": {
     "ui": { "ux": "sonnet", "ui": "haiku" },
-    "security": { "security": "opus" }
+    "security": { "security": "sonnet" }
   },
   "protected_paths": [
     "factory/checks.sh",
