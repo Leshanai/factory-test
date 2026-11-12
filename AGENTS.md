@@ -1,10 +1,10 @@
 # factory-test
 
-A new project with no code yet.
+A small Python project. `palindrome.py` defines `is_palindrome(value)` for strings and ints; tests are in `test_palindrome.py`.
 
 ## Setup
 
-No dependencies yet. Python 3.10+ is needed for `factory/bin/*`.
+No dependencies. Python 3.10+ is needed for `factory/bin/*` and the code.
 
 ## Dev server
 
@@ -13,6 +13,7 @@ None yet.
 ## Validation
 
 `bash factory/checks.sh` (currently placeholder checks: config JSON validity).
+Tests: `python3 -m unittest -v` (not run by `checks.sh`, which is protected).
 
 ## Software factory
 
