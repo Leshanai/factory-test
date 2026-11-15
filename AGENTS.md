@@ -8,7 +8,13 @@ No dependencies. Python 3.10+ is needed for `factory/bin/*` and the code.
 
 ## Dev server
 
-None yet.
+Start the simple frontend web server with:
+
+```bash
+python3 app.py
+```
+
+Then open `http://localhost:8000/` in a browser.
 
 ## Validation
 
